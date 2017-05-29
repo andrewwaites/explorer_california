@@ -1,0 +1,3 @@
+# ignore sed .bak and emacs ~ files
+*.bak
+*~
